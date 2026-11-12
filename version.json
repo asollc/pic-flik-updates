@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.30",
-  "apkUrl": "https://pic-flik-updates.vercel.app/PicFlik-v31.apk",
-  "notes": "Albums are now tracked by their real folder: same-named albums in different places stay separate and show their folder path. Album lists run A to Z when selecting, with a search box that suggests albums as you type. Moving to an existing album now puts photos in that exact folder."
+  "versionCode": 32,
+  "versionName": "1.31",
+  "apkUrl": "https://pic-flik-updates.vercel.app/PicFlik-v32.apk",
+  "notes": "Album search now matches folder paths too, so searching for a parent folder finds the albums inside it. The phone back button now steps back through screens instead of closing the app. If Android is only sharing picked photos, Pic Flik now says so and points to the setting that allows all."
 }
