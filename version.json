@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
-  "apkUrl": "https://pic-flik-updates.vercel.app/PicFlik-v32.apk",
-  "notes": "Album search now matches folder paths too, so searching for a parent folder finds the albums inside it. The phone back button now steps back through screens instead of closing the app. If Android is only sharing picked photos, Pic Flik now says so and points to the setting that allows all."
+  "versionCode": 33,
+  "versionName": "1.32",
+  "apkUrl": "https://pic-flik-updates.vercel.app/PicFlik-v33.apk",
+  "notes": "Albums are now named and grouped by the folder your photos actually sit in. Android keeps a stale album name tag after a file is moved, which made albums created here keep showing their old album's name; Pic Flik no longer trusts that tag, so created albums show up under their real name."
 }
